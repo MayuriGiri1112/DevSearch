@@ -1,35 +1,38 @@
 # DevSearch
-Sourcode and Resources for Django 2021 Course
+DevSearch is a web platform designed to help developers connect, collaborate, and showcase their work. It’s like a big online community where developers can create profiles, share their skills and projects, and find others with similar interests. Build on Django.
 
 # Installation
-* 1 - clone repo https://github.com/divanov11/Django-2021
-* 2 - create a virtual environment and activate
+1. clone repo https://github.com/MayuriGiri1112/DevSearch
+2. create a virtual environment and activate
   - pip install virtualenv
-  - virtualenv envname
-  - envname\scripts\activate
-* 3 - cd into project "cd django-2021"
-* 4 - pip install -r requirements.txt
-* 5 - python manage.py runserver
+  - virtualenv env_name
+  - env_name\scripts\activate
+3. cd into project "cd DevSearch"
+4. pip install -r requirements.txt
+5. python manage.py runserver
 
 # Features
+* Sign Up
+* Sign In
 * Share Projects
 * Message other developers
 * Rate others work
 * Search other developers
-
-# Course Overview
-* Basic Django Overview
-* Database Design and Models
-* Static Files
 * User Registration & Authentication
-* Search
-* Pagination
-* Building an API with Django REST Framework (DRF)
 
 # Tech Stack
+* HTML
+* CSS
+* BootStrap
 * Django
 * Postgres
 * Django REST Framework
+
+# Softwares Used:
+* VS Code
+* DB Browser (SQlite)
+* Postman
+* Github
 
 # Registration Page
 <img src="./resources/images/UI/register.png"> 
