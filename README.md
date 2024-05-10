@@ -1,9 +1,6 @@
 # DevSearch
 Sourcode and Resources for Django 2021 Course
 
-See the full course here: https://dennisivy.teachable.com/p/django-beginners-course
-
-
 # Installation
 * 1 - clone repo https://github.com/divanov11/Django-2021
 * 2 - create a virtual environment and activate
@@ -14,8 +11,6 @@ See the full course here: https://dennisivy.teachable.com/p/django-beginners-cou
 * 4 - pip install -r requirements.txt
 * 5 - python manage.py runserver
 
-
-
 # Features
 * Share Projects
 * Message other developers
@@ -23,30 +18,37 @@ See the full course here: https://dennisivy.teachable.com/p/django-beginners-cou
 * Search other developers
 
 # Course Overview
-* Basic Djagno Overview
+* Basic Django Overview
 * Database Design and Models
 * Static Files
-* User Registration & Authenticaiton
+* User Registration & Authentication
 * Search
 * Pagination
 * Building an API with Django REST Framework (DRF)
-* Deployment
 
 # Tech Stack
 * Django
 * Postgres
 * Django REST Framework
 
+# Registration Page
+<img src="./resources/images/UI/register.png"> 
+
+# Login Page
+<img src="./resources/images/UI/login.png"> 
+
 # Home Page
-<img src="./resources/images/Devsearch Home.jpg">  
-
-
-# Projects Page
-<img src="./resources/images/DevSearch Projects.jpg">  
+<img src="./resources/images/UI/developers.png"> 
 
 # Profile Page
-<img src="./resources/images/Devsearch Profile.jpg">  
+<img src="./resources/images/UI/profile.png">  
+
+# Projects Page
+<img src="./resources/images/UI/projects.png">  
+
+# Rate Project Page
+<img src="./resources/images/UI/rate_project.png"> 
 
 # User Inbox
-<img src="./resources/images/Devsearch Inbox.jpg">  
+<img src="./resources/images/UI/inbox.png">  
 
